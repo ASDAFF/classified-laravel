@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* Search
+------------------------------------------------ */
+.search-row {
+  .search-col {
+    &:first-child {
+      .form-control {
+        border-right: 2px solid #000;
+      }
+    }
+  }
+}
+
+.search-row-wrapper {
+  margin-top: 60px;
+}

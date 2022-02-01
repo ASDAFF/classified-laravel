@@ -1,16 +1,1 @@
-/*
- * LaraClassified - Classified Ads Web Application
- * Copyright (c) BedigitCom. All Rights Reserved
- *
- * Website: http://www.bedigit.com
- *
- * LICENSE
- * -------
- * This software is furnished under a license and may be used and copied
- * only in accordance with the terms of such license and with the inclusion
- * of the above copyright notice. If you Purchased from Codecanyon,
- * Please read the full License from here - http://codecanyon.net/licenses/standard
- */
-
-/* Your custom CSS here... */
-
+@font-face{font-family:"FuturaBookC";src:url("../fonts/FuturaBookC.eot");src:url("../fonts/FuturaBookC.eot?#iefix") format("embedded-opentype"),url("../fonts/FuturaBookC.woff") format("woff"),url("../fonts/FuturaBookC.ttf") format("truetype"),url("../fonts/FuturaBookC.otf") format("opentype");font-style:normal;font-weight:normal}@font-face{font-family:"FuturaBookC-Italic";src:url("../fonts/FuturaBookC-Italic.eot");src:url("../fonts/FuturaBookC-Italic.eot?#iefix") format("embedded-opentype"),url("../fonts/FuturaBookC-Italic.woff") format("woff"),url("../fonts/FuturaBookC-Italic.ttf") format("truetype"),url("../fonts/FuturaBookC-Italic.otf") format("opentype");font-style:italic;font-weight:normal}#stepWizard{margin-top:60px}@-webkit-keyframes blink{0%{color:#222}50%{color:rgba(34,34,34,0)}100%{color:#222}}@keyframes blink{0%{color:#222}50%{color:rgba(34,34,34,0)}100%{color:#222}}@-webkit-keyframes ShowOverlay{0%{opacity:0}100%{opacity:.7}}@keyframes ShowOverlay{0%{opacity:0}100%{opacity:.7}}.header .logo .main-logo{height:130px}.header .navbar.navbar-site .navbar-identity .navbar-brand{padding-top:10px;padding-bottom:10px}.search-row .search-col:first-child .form-control{border-right:2px solid #000}.search-row-wrapper{margin-top:60px}/*# sourceMappingURL=custom.css.map */

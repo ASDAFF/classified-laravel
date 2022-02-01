@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+@-webkit-keyframes blink {
+  0% {
+    color: rgba(34, 34, 34, 1);
+  }
+  50% {
+    color: rgba(34, 34, 34, 0);
+  }
+  100% {
+    color: rgba(34, 34, 34, 1);
+  }
+}
+
+@keyframes blink {
+  0% {
+    color: rgba(34, 34, 34, 1);
+  }
+  50% {
+    color: rgba(34, 34, 34, 0);
+  }
+  100% {
+    color: rgba(34, 34, 34, 1);
+  }
+}
+
+@-webkit-keyframes ShowOverlay {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: .7;
+  }
+}
+
+@keyframes ShowOverlay {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: .7;
+  }
+}
